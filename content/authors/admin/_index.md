@@ -74,101 +74,88 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Школьник
+    company_name: Школа №127
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2013-09-01
+    date_end: 2024-05-31
+  - position: Студент
+    company_name: РУДН
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-09-01
+    date_end: 2028-05-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 80
+        percent: 50
         icon: code-bracket
-      - name: Data Science
+      - name: Физика
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Математика
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Туризм
         description: ''
-        percent: 60
+        percent: 85
         icon: person-simple-walk
-      - name: Cats
+      - name: Собаки
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Фотография
         description: ''
-        percent: 80
+        percent: 75
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Английский
+    percent: 50
+  - name: Китайский
+    percent: 5
+  - name: Русский
+    percent: 83
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Золотая медаль
+    url: 
+    date: '2024-06-28'
+    awarder: За отличные успехи в учении
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Я не думала в 10 классе, что у меня получится за 2 года получить все пятерки и выпуститься медалисткой, но из-за просто материала и долгих стараний это стало возможно.
+  - title: Призер физико-математической олимпиады 
+    url: 
+    date: '2024-04-01'
+    awarder: Звезда
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      С 7 класса я углубленно изучала физику и к концу 11 смогла написать олимпиаду по ней и получить диплом.
+  - title: Победитель легкоатетической эстафеты "Звезда"
+    url: 
+    certificate_url: 
+    date: '2024-04-20'
+    awarder: Звезда
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      В нашем городе проходит ежегодная легкоатлетическая эстафета, которую транслируют по телевизору. Каждый год мы проигрывали на 5-7 мест, но в 2024 все поменялось, я увидела как мой товарищ бежит первый с эстафетной палочкой, в тот день мы заняли первое место и выиграли денежный приз на команду.
 ---
 
 ## About Me
